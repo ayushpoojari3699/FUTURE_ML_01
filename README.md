@@ -1,8 +1,5 @@
-&#x20;FUTURE\_ML\_01 - Sales Forecasting using Prophet
+ Sales Forecasting using Prophet
 
-
-
-&#x20; Track
 
 Machine Learning (ML)
 
